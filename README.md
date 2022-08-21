@@ -3,10 +3,10 @@ This ROS Driver is for Autonics LSC-C Series
 
 ### Table of Contents
 
-- [Supported Hardware](1.-supported-hardware)
-- [ROS API](2.-ROS-API)
-- [Build](3.-Build)
-- [Start](4.-Start)
+- [Supported Hardware](#1-supported-hardware)
+- [ROS API](#2-ros-api)
+- [Build](#3-build)
+- [Start](#4-start)
 
 
 ### 1. Supported Hardware
@@ -34,7 +34,7 @@ This ROS Driver is for Autonics LSC-C Series
     source /opt/ros/<rosdistro>/setup.bash
     makdir -p ~/catkin_ws/src/
     cd ~/catkin_ws/src/
-    git clone https://github.com/autonicsDev/lsc_ros_driver.git
+    git clone https://github.com/AutnoicsLiDAR/lsc_ros_driver.git
     cd ~/catkin_ws
     catkin_make
 
