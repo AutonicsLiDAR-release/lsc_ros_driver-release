@@ -1,0 +1,20 @@
+ros-melodic-lsc-ros-driver (1.0.3-2bionic) bionic; urgency=high
+
+  * fixed #2 cpu usage issue
+  * add topic_name parameter
+
+ -- Autonics-lidar <lidar-ros@autonics.com>  Tue, 10 Jan 2023 15:00:00 -0000
+
+ros-melodic-lsc-ros-driver (1.0.2-2bionic) bionic; urgency=high
+
+  * Change pacakge info
+
+ -- Autonics-lidar <lidar-ros@autonics.com>  Mon, 25 Jul 2022 15:00:00 -0000
+
+ros-melodic-lsc-ros-driver (1.0.1-2bionic) bionic; urgency=high
+
+  * Initial release
+
+ -- wkkim <wkkim@autonics.com>  Mon, 18 Jul 2022 15:00:00 -0000
+
+
