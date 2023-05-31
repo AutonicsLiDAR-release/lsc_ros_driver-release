@@ -1,3 +1,26 @@
+## lsc_ros_driver (melodic) - 1.0.3-10
+
+The packages in the `lsc_ros_driver` repository were released into the `melodic` distro by running `/usr/bin/bloom-release --ros-distro melodic --track melodic lsc_ros_driver --edit` on `Wed, 31 May 2023 01:32:12 -0000`
+
+The `lsc_ros_driver` package was released.
+
+Version of package(s) in repository `lsc_ros_driver`:
+
+- upstream repository: https://github.com/AutonicsLiDAR/lsc_ros_driver.git
+- release repository: https://github.com/AutonicsLiDAR-release/lsc_ros_driver-release.git
+- rosdistro version: `1.0.2-1`
+- old version: `1.0.3-9`
+- new version: `1.0.3-10`
+
+Versions of tools used:
+
+- bloom version: `0.11.2`
+- catkin_pkg version: `0.5.2`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## lsc_ros_driver (melodic) - 1.0.3-9
 
 The packages in the `lsc_ros_driver` repository were released into the `melodic` distro by running `/usr/bin/bloom-release --rosdistro melodic --track melodic lsc_ros_driver --edit` on `Fri, 13 Jan 2023 05:48:45 -0000`
