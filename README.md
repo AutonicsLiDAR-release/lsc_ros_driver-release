@@ -1,3 +1,26 @@
+## lsc_ros_driver (noetic) - 1.0.4-1
+
+The packages in the `lsc_ros_driver` repository were released into the `noetic` distro by running `/usr/bin/bloom-release --ros-distro noetic --track noetic lsc_ros_driver --edit` on `Tue, 23 Apr 2024 00:31:24 -0000`
+
+The `lsc_ros_driver` package was released.
+
+Version of package(s) in repository `lsc_ros_driver`:
+
+- upstream repository: https://github.com/AutonicsLiDAR/lsc_ros_driver.git
+- release repository: https://github.com/AutonicsLiDAR-release/lsc_ros_driver-release.git
+- rosdistro version: `1.0.3-1`
+- old version: `1.0.3-1`
+- new version: `1.0.4-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## lsc_ros_driver (noetic) - 1.0.3-1
 
 The packages in the `lsc_ros_driver` repository were released into the `noetic` distro by running `/usr/bin/bloom-release --ros-distro noetic --track noetic lsc_ros_driver --edit` on `Wed, 31 May 2023 01:39:02 -0000`
